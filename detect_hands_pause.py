@@ -1,3 +1,12 @@
+__author__      = "Vinay Verma"
+__copyright__   = "Copyright 2021, Vinay Verma"
+__credits__     = ["Vinay Verma"]
+__license__     = "MIT"
+__version__     = "0.1.0"
+__maintainer__  = "Vinay Verma"
+__email__       = "vermavinay982@gmail.com"
+__module_name__ = "[Note Maker]"
+
 import cv2
 import mediapipe as mp
 import pyautogui 
