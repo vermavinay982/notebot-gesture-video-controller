@@ -1,7 +1,7 @@
 # video-notemaking-helper
 We show hand to stop bus, why not video? This program will pause video and let you make your beautiful notes when you show hand to the camera. :)
 
-![Image](https://github.com/vermavinay982/assets/blob/main/video_notes_helper/op_vid.gif?raw=true)
+![Image](assets/op_vid.gif?raw=true)
 
 ## Install Dependencies 
 ```
@@ -14,4 +14,4 @@ pip install pyautogui
 python detect_hand_pause.py
 ```
 
-![Image](https://github.com/vermavinay982/assets/blob/main/video_notes_helper/Output201.jpg?raw=true)
+![Image](assets/Output201.jpg?raw=true)
